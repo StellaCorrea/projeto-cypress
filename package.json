@@ -1,0 +1,26 @@
+{
+  "name": "projetocypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Este projeto utiliza **Cypress** para automação de testes. Abaixo está a estrutura das pastas e suas funções:",
+  "devDependencies": {
+    "cypress": "^14.0.1"
+  },
+  "dependencies": {
+    "projetocypress": "file:"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StellaCorrea/projetoCypress.git"
+  },
+  "bugs": {
+    "url": "https://github.com/StellaCorrea/projetoCypress/issues"
+  },
+  "homepage": "https://github.com/StellaCorrea/projetoCypress#readme"
+}
